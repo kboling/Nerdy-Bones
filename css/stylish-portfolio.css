@@ -73,7 +73,7 @@ h6 {
   height: auto;
   padding-top: 8rem;
   padding-bottom: 8rem;
-  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/bg-masthead.jpg");
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../imgs/girlsincomputing.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover; }
@@ -100,7 +100,7 @@ h6 {
   -o-transition: all 0.4s ease 0s;
   transition: all 0.4s ease 0s;
   transform: translateX(250px);
-  background: #1D809F;
+  background: #ecb807;
   border-left: 1px solid rgba(255, 255, 255, 0.1); }
 
 .sidebar-nav {
@@ -284,6 +284,13 @@ a {
 
 .bg-primary {
   background-color: #1D809F !important; }
+
+.section-image {
+  background: url("../imgs/background.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover; }
+}
 
 .text-primary {
   color: #1D809F !important; }

@@ -7008,7 +7008,9 @@ a.bg-dark:focus, a.bg-dark:hover {
 .my-5 {
   margin-bottom: 3rem !important;
 }
-
+.my-10 {
+  bottom: 0 !important;
+}
 .ml-5,
 .mx-5 {
   margin-left: 3rem !important;
